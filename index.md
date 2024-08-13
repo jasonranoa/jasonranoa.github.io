@@ -11,4 +11,4 @@ Hi, there! 👋
 {: .fs-6 .fw-300 }
 My name is Jason Ranoa and welcome to my website!
 
-Please see navigation for more content.
+Please see navigation for more content
