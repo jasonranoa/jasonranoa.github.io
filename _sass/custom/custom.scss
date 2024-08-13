@@ -1,0 +1,30 @@
+.nav-div-container {
+	display: block;
+	@if $nav-list-expander-right {
+		padding-right: $nav-list-item-height-sm;
+		padding-left: $gutter-spacing-sm;
+	}
+	@else {
+		padding-right: $gutter-spacing-sm;
+		padding-left: $nav-list-item-height-sm;
+	}
+
+	@include mq(md) {
+		min-height: $nav-list-item-height;
+		line-height: #{$nav-list-item-height - 2 * $sp-1};
+
+		@if $nav-list-expander-right {
+			padding-right: $nav-list-item-height;
+			padding-left: $gutter-spacing;
+		}
+
+		@else {
+			padding-right: $gutter-spacing;
+			padding-left: $nav-list-item-height;
+		}
+	}
+
+	.nav-div-label {
+		font-style: italic;
+	}
+}

@@ -1,0 +1,50 @@
+
+<script>
+	gridKeys = [
+		"xmin", "xmax", "xndiv", 
+		"ymin", "ymax", "yndiv"
+	];
+	gridDefaults = [
+		0, 10, 10, 
+		0, 10, 10
+	];
+	gridObjs = {};
+
+
+
+
+	gridOptions = {
+		xmin: {
+			key: "xmin",
+			default: 0,
+			desmosLabel: "x_{min}",
+		}
+	};
+	for (let [id, opt] of Object.entries(gridOptions)) {
+		console.log(opt.key);
+	};
+
+	for (let i = 0; i < gridKeys.length; i++) {
+		key = gridKeys[i];
+		
+		gridObjs[key] = {};
+		gridObjs[key]["span"] = document.getElementById(key + "-span");
+		calculator.setExpression({
+			id: key, 
+			latex: gridDefaults[i],
+		});
+
+		gridObjs[key]["field"] = MQ.MathField(gridObjs[key]["span"], {
+			handlers: {
+				edit: function() {
+					calculator.setExpression({
+						id: key, 
+						latex: gridObjs[key]["field"].latex()
+					})
+				}
+			},
+			latex: gridDefaults[i],
+		});
+	}
+</script>
+

@@ -1,8 +1,45 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Jason Ranoa
+description: Jason Ranoa's personal website and sandbox.
 theme: just-the-docs
+url: "https://jasonranoa.github.io"
 
-url: https://just-the-docs.github.io
+permalink: pretty
+favicon_ico: "/assets/images/favicon.ico"
 
+search_enabled: false
+heading_anchors: false
+back_to_top: false
+gh_edit_link: false
+
+
+# COLORS
+color_scheme: nil
+
+# AUXILIARY LINKS
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Visit me at GitHub":
+    - "//github.com/jasonranoa"
+  "Email me @ jasonranoa1102@gmail.com":
+    - "mailto: jasonranoa1102@gmail.com"
+aux_links_new_tab: true
+
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+  # ignore:
+  #   envs: all
