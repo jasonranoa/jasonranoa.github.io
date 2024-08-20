@@ -28,9 +28,11 @@ Listed below are some of the materials I've developed for the MTH 264 course I t
 1. [HW2A. On Matrix Operations](/assets/teaching-materials/2023-summer-mth-264/HW2A. Week 2A Written Homework.pdf)
 1. [HW2B. On Matrix Equations and Row Operations](/assets/teaching-materials/2023-summer-mth-264/HW2B. Week 2B Written Homework.pdf)
 1. [HW3A. On Linear Independence](/assets/teaching-materials/2023-summer-mth-264/HW3A. Written Homework 3A - Linear Independence.pdf)
-1. [HW3B. On Matrix Transformations](/assets/teaching-materials/2023-summer-mth-264/HW3B. Written Homework 3B - Matrix Transformations.pdf)
+1. [HW3B. On Matrix Transformations](/assets/teaching-materials/2023-summer-mth-264/HW3B. Written Homework 3B - Matrix Transformations.pdf).
+Solution to Problem 3B is linked [here](/assets/teaching-materials/2023-summer-mth-264/HW3B.1. Answer Key for Problem 9.pdf).
 1. [HW4A. On Determinants](/assets/teaching-materials/2023-summer-mth-264/HW4A. Written Homework 4A.pdf)
 1. [HW4B. On the Eigenvalue Problem](/assets/teaching-materials/2023-summer-mth-264/HW4B. Written Homework 4B.pdf)
 
 ### Review Problems
 1. [FER. Practice Problems for the Final Exam](/assets/teaching-materials/2023-summer-mth-264/FER. Practice Problems for the Final Exam.pdf)
+1. [FER.Key. Answer Key for Practice Problems](/assets/teaching-materials/2023-summer-mth-264/FER.Key.pdf)

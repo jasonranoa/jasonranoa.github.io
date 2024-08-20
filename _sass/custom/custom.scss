@@ -28,3 +28,13 @@
 		font-style: italic;
 	}
 }
+
+/// Button Colors
+
+.btn-red {
+	@include btn-color($white, $red-200);
+}
+
+.btn-orange {
+	@include btn-color($white, #D73F09); /// Beaver orange
+}

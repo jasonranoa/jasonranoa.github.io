@@ -13,7 +13,7 @@ gh_edit_link: false
 
 
 # COLORS
-color_scheme: nil
+color_scheme: dark
 
 # AUXILIARY LINKS
 aux_links:
