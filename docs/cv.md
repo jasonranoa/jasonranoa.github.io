@@ -6,7 +6,7 @@ permalink: /cv
 ---
 
 
-## Jason Ranoa - Curriculum Vitae 
+# Jason Ranoa - Curriculum Vitae 
 [PDF Download](assets/cv/ranoa-cv-2024-august.pdf){: .btn .btn-outline .fs-2 .v-align-bottom }
 {: .mb-3 }
 
