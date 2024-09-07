@@ -1,3 +1,13 @@
+/// Button Colors
+
+.btn-red {
+	@include btn-color($white, $red-200);
+}
+
+.btn-orange {
+	@include btn-color($white, $orange-200); // Beaver orange
+}
+
 .nav-div-container {
 	display: block;
 	@if $nav-list-expander-right {
@@ -27,14 +37,4 @@
 	.nav-div-label {
 		font-style: italic;
 	}
-}
-
-/// Button Colors
-
-.btn-red {
-	@include btn-color($white, $red-200);
-}
-
-.btn-orange {
-	@include btn-color($white, #D73F09); /// Beaver orange
 }

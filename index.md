@@ -26,7 +26,7 @@ Current interests include math education, algebraic topology, and topological da
 	</a></dd>
 	<dt> Github </dt>
 	<dd><a href="//github.com/jasonranoa"> 
-		github.com/jasonranoa 
+		github.com/jasonranoa
 	</a></dd>
 </dl>
 

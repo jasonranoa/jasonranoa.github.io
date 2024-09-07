@@ -7,10 +7,10 @@ permalink: /ms-project
 
 
 # An Exposition on the Algebra and Computation of Persistent Homology 
-[PDF Download](assets/pdfs/ranoa-expository-paper-2nd-version.pdf){: .btn .btn-green .fs-2 .v-align-text-bottom } 
-[ScholarsArchive@OSU Link](https://ir.library.oregonstate.edu/concern/graduate_projects/gt54kw81q){: .btn .btn-orange .fs-2 .v-align-text-bottom }
-[ArXiv Link](https://arxiv.org/abs/2408.07899){: .btn .btn-red .fs-2 .v-align-text-bottom } 
-{: .mb-1}
+[PDF Download](assets/pdfs/ranoa-expository-paper-2nd-version.pdf){: .btn.fs-2 } 
+[ScholarsArchive@OSU Link](https://ir.library.oregonstate.edu/concern/graduate_projects/gt54kw81q){: .btn .btn-orange .fs-2 }
+[ArXiv Link](https://arxiv.org/abs/2408.07899){: .btn .btn-red .fs-2 } 
+
 
 {: .mt-1}
 **Abstract:**
